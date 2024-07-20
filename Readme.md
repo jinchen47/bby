@@ -1,8 +1,8 @@
-#*我的笔记和模型（这是第一级标题）*
+# *我的笔记和模型（这是第一级标题）*
 
-##**这是第二级标题**
+## **这是第二级标题**
 
-###___这是第三级标题___
+### ___这是第三级标题___
 
 **How to be a good programmer ?**
 <font face='仿宋' color='red' SIZE='5'>
@@ -20,6 +20,7 @@
 
 <font face='Times New Roman' color='blue' SIZE='3'>
 3. The third letter of ONE is E .
+</font>
 
 ![笔记1](images/a.jpg)
 ![笔记2](images/b.jpg)
